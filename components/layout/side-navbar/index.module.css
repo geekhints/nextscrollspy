@@ -1,0 +1,15 @@
+.ScrollspyContainer{
+  width: 15%;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  align-content: center;
+  background-color: #C43C3C;
+}
+.ScrollspyNav{
+  padding-top: 3rem;
+}

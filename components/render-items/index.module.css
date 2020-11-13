@@ -1,0 +1,13 @@
+.NavItem{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+.NavLink{
+    color: white;
+    font-size: 1.5rem;
+}
+.Active{
+    text-decoration: underline;
+}

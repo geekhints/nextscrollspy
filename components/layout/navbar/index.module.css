@@ -1,0 +1,13 @@
+.Navbar{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+.NavItems{
+    display: flex;
+    justify-content: space-around;
+
+}
+.NavItem{
+    list-style-type: none;
+}
